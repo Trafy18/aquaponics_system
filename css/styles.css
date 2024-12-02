@@ -1,0 +1,13 @@
+.card-header {
+  font-size: 30px;
+  font-weight: bold;
+  background-color: aqua;
+}
+
+.card {
+  width: 33.33%;
+}
+
+thead {
+  align-items: center;
+}
